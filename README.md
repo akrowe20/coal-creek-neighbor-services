@@ -1,4 +1,4 @@
-# Canyon Care Co. website
+# Coal Creek Neighbor Services website
 
 A one-page static website for a local Coal Creek Canyon laundry and home-care service. It works on GitHub Pages without a server or paid website builder.
 

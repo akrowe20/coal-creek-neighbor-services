@@ -1,4 +1,4 @@
-const CONTACT_EMAIL = "canyoncareco@gmail.com";
+const CONTACT_EMAIL = "coalcreekneighbor@gmail.com";
 
 
 // --------------------------------------------------
